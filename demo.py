@@ -1,3 +1,3 @@
 print("Hello world")
-a = 1
+a = 0
 b = 1
